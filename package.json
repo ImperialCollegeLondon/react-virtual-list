@@ -26,12 +26,11 @@
     "url": "https://github.com/developerdizzle/react-virtual-list/issues"
   },
   "homepage": "https://github.com/developerdizzle/react-virtual-list",
-  "dependencies": {
-    "react": "~0.13.x"
-  },
+  "dependencies": {},
   "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-react": "^3.0.1",
-    "jasmine-node": "^1.14.5"
+    "jasmine-node": "^1.14.5",
+    "react": "^0.14.7"
   }
 }
